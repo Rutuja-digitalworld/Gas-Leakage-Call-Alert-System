@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "gasReadings": {
+      ".read": true,
+      ".write": true
+    },
+    "alerts": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
