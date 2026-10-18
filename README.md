@@ -108,3 +108,4 @@ Never commit `.env` to GitHub.
 ## Important
 
 This is a virtual sensor simulation. It does not physically detect gas. A future hardware version can replace `virtualSensor.js` with ESP32/MQ-series sensor readings.
+last documentation: 18 October 2026
